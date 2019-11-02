@@ -1,6 +1,6 @@
 scalaVersion := "2.12.8"
 
-name := "a-study-in-scala"
+name := "scala-vscode"
 
 libraryDependencies := Seq(
   "org.scalatest" %% "scalatest" % "3.0.4" % "test",
